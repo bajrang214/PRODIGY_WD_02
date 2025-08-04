@@ -2,7 +2,7 @@
 A simple, interactive stopwatch built using HTML, CSS, and JavaScript. This web app allows users to start, pause, reset the timer, and record lap times.
 
 🔗 Live Demo
-🔴 [Add link here if deployed online (e.g., GitHub Pages)]
+🔴 [https://bajrang214.github.io/PRODIGY_WD_02/]
 
 📸 Screenshot
 
